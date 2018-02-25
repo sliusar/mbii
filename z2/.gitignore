@@ -1,0 +1,4 @@
+# Folder for data input and output, ignore all files, they are too big for github
+*
+# Except this file
+!.gitignore
